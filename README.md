@@ -1,1 +1,2 @@
 # Node.js Application Lab
+I was able to successfully complete this lab with only a few minor speedbumps along the way. One thing I'd like to note is that, in step 1, the instructions say to go to "https://localhost:3001/", but it should really say "http://localhost:3001/" (without the "s" after "http"). This was easily fixed when doing the lab, but had I not had someone tell me to make the change, I would have had no idea what the problem was. Otherwise, the instructions were very straightforward and easy to follow.
